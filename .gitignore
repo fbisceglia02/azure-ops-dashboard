@@ -1,0 +1,4 @@
+/node_modules
+/clientApp/node_modules
+/clientApp/dist
+/.env
