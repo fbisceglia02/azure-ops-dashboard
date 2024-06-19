@@ -2,8 +2,6 @@
 
 <!-- Add the warning box here -->
 > **⚠️ Warning: Secret expiring every 7 days.**
-> 
-> Please use it at your own risk. Contributions are welcome, but the codebase may change frequently.
 
 ## Introduction
 
